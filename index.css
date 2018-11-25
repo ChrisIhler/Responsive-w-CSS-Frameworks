@@ -1,0 +1,82 @@
+header {
+  background: #5e5e5e;
+}
+header div {
+  display: flex;
+  justify-content: center;
+
+}
+header div img {
+  align-self: center;
+  height: 80px;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+nav a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: white;
+  margin: 10px;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.middleSection {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+}
+.middlesquare {
+}
+p {
+  margin: 5;
+  align-self: center;
+}
+
+.download {
+  width: 280px;
+  height: 100px;
+  background: green;
+  align-self: center;
+  text-align: center;
+  padding: 5%;
+  align-content: 30px;
+  margin: 20px;
+}
+
+
+
+.middlelinks {
+  padding: 3%;
+  align-self: center;
+  font-size: 15px;
+
+}
+
+.bottom {
+  text-align: center;
+  padding: 3%;
+}
+
+.middlepiece {
+}
+footer {
+  color: white;
+  background: #5e5e5e;
+  height: 300px;
+  padding: 50px;
+  margin-top: 100px;
+}
